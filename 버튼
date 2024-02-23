@@ -1,0 +1,10 @@
+MaterialApp(
+  home: Scaffold(
+    floatingActionButtion: FloatingActionButton(
+      child : Text('버튼'),
+      onPressed: (){}
+    ),
+    appBar: AppBar(),
+    body: 생략
+  ),
+)
