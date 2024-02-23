@@ -1,0 +1,10 @@
+ListView.builder(
+  itemCount: 3,
+  itemBuilder: (context, i) {
+    print(i);
+    return ListTile(
+      leading : Image.asset('profile.png'),
+      title : Text('홍길동'),
+    )
+  }
+);  
