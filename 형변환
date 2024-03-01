@@ -1,0 +1,7 @@
+main(){
+  int n1=10;           // 1번 줄
+  String s1 = '10';    // 2번 줄
+
+  String s2 = n1.toString();  // 3번 줄
+  int n3 = int.parse(s1);     // 4번 줄
+}
