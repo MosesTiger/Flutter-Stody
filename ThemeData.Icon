@@ -1,0 +1,5 @@
+ThemeData( 
+  inputDecorationTheme: InputDecorationTheme(
+    icon: Icon(Icons.star),
+  )
+) 
