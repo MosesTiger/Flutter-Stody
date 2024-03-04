@@ -1,0 +1,11 @@
+TextField(
+  decoration: InputDecoration(
+
+    filled: true,
+    fillColor: Colors.blue.shade100,
+    enabledBorder: OutlineInputBorder(
+      borderSide: BorderSide.none,
+    )
+
+  ),
+), 
